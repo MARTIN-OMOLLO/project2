@@ -5,7 +5,18 @@
 }
 #Service{
     float: right;
-    display: flex;
-    
+    display: block;
+    position: relative;
     background-color: cornflowerblue;
+}
+.image1{
+    float: right;
+}
+#top{
+    background-color: wheat);
+    height: 400px;
+}
+.image1{
+    width: 500px;
+    height: 300px;
 }
