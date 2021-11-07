@@ -5,9 +5,12 @@
 }
 #Service{
     float: right;
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
     position: relative;
     background-color: cornflowerblue;
+    height: 300;
+    margin: 200;
 }
 .image1{
     float: right;
@@ -19,4 +22,7 @@
 .image1{
     width: 500px;
     height: 300px;
+}
+.last{
+    margin: 50px;
 }
